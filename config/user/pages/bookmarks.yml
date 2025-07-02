@@ -1,0 +1,1096 @@
+# 自动生成的书签配置文件
+# 由bookmark-processor.js生成于 2025-07-02T11:30:52.475Z
+# 若要更新，请将新的书签HTML文件放入bookmarks/目录
+# 此文件使用模块化配置格式，位于config/user/pages/目录下
+
+title: 我的书签
+subtitle: 从浏览器导入的书签收藏
+categories:
+  - name: yuan
+    icon: fas fa-folder
+    sites:
+      - name: 电子科技大学继续教育学院、网络教育学院、职业教育学院学生登录
+        url: https://student.uestcedu.com/console/
+        icon: fas fa-link
+        description: ""
+      - name: dccworker汇总 - Grafana
+        url: http://47.109.24.193:3000/d/P0Fe5t2nz/dccworkerhui-zong?orgId=1
+        icon: fas fa-link
+        description: ""
+  - name: 所有
+    icon: fas fa-folder
+    sites:
+      - name: MSDN, 我告诉你
+        url: https://msdn.itellyou.cn/
+        icon: fas fa-link
+        description: ""
+      - name: 管理系统
+        url: http://student.uestcedu.com/console/
+        icon: fas fa-link
+        description: ""
+      - name: (1条消息) CSDN - 专业开发者社区
+        url: https://www.csdn.net/
+        icon: fas fa-link
+        description: ""
+      - name: 中国远程与继续教育网
+        url: http://www.cdce.cn/
+        icon: fas fa-link
+        description: ""
+      - name: 门户 - Powered by Discuz!
+        url: http://www.cnitt.net/portal.php
+        icon: fas fa-link
+        description: ""
+      - name: Guidebook | 让工作学习生活更高效！
+        url: https://nav.guidebook.top/
+        icon: fas fa-link
+        description: ""
+      - name: 尚硅谷Kubernetes教程(K8s入门到精通)_哔哩哔哩_bilibili
+        url: https://www.bilibili.com/video/BV1w4411y7Go?p=9
+        icon: fas fa-link
+        description: ""
+      - name: 极光导航 - 简约纯净网址导航
+        url: https://www.jigdh.com/
+        icon: fas fa-link
+        description: ""
+      - name: CKA (Certified Kubernetes Administrator)
+        url: https://training.linuxfoundation.cn/certificates/1
+        icon: fas fa-link
+        description: ""
+      - name: Search Results | Kubernetes
+        url: https://kubernetes.io/search/
+        icon: fas fa-link
+        description: ""
+      - name: Chrome 应用商店 - 扩展程序
+        url: https://chrome.google.com/webstore/category/extensions?hl=zh-CN
+        icon: fab fa-google
+        description: ""
+  - name: 激活
+    icon: fas fa-folder
+    sites:
+      - name: win11专业版激活irm massgrave.dev/get | iex
+        url: https://zhuanlan.zhihu.com/p/637930518
+        icon: fas fa-link
+        description: ""
+      - name: 91BT地址发布页,分享网最新网址
+        url: https://91cl.vip/
+        icon: fas fa-link
+        description: ""
+      - name: 阿虚同学的储物间
+        url: https://www.axutongxue.com/?imyshare.com=friends
+        icon: fas fa-link
+        description: ""
+      - name: (26条消息) CKA 认证笔记 - CKA 认证经验帖_艾希射日的博客-CSDN博客_cka认证
+        url: https://blog.csdn.net/Ahri_J/article/details/109526229
+        icon: fas fa-link
+        description: ""
+      - name: 果核剥壳 - 互联网的净土
+        url: https://www.ghxi.com/
+        icon: fas fa-link
+        description: ""
+      - name: UP云搜 - 最全云盘资源搜索神器
+        url: https://www.upyunso.com/
+        icon: fas fa-link
+        description: ""
+      - name: (1) 小众软件官方论坛 - 小众软件
+        url: https://meta.appinn.net/
+        icon: fas fa-link
+        description: ""
+      - name: 在线 MarkDown 编辑器 - Online MarkDown Editor - 孟坤工具箱
+        url: http://tool.mkblog.cn/markdown/
+        icon: fas fa-link
+        description: ""
+      - name: 首页 - 孟坤工具箱网页版
+        url: http://tool.mkblog.cn/
+        icon: fas fa-link
+        description: ""
+      - name: 爱达杂货铺 | 收集那些有用的东西|爱达导航
+        url: https://adzhp.cn/
+        icon: fas fa-link
+        description: ""
+      - name: VMware Workstation Pro v16.1.2 虚拟机软件及永久许可证|亿破姐
+        url: https://www.ypojie.com/6066.html
+        icon: fas fa-link
+        description: ""
+      - name: QQ农牧助手_QQ农场牧场助手_官方网站
+        url: http://www.qqhelper.net/
+        icon: fas fa-link
+        description: ""
+      - name: JetBrains PyCharm 2021.2.2 Professional-QQ前线乐园
+        url: https://www.yijingying.com/9613.html
+        icon: fas fa-link
+        description: ""
+      - name: Switch520
+        url: https://www.gamer520.com/
+        icon: fas fa-link
+        description: ""
+      - name: 壁纸站
+        url: https://wallhaven.cc/
+        icon: fas fa-link
+        description: ""
+      - name: 下载器
+        url: https://motrix.app/
+        icon: fas fa-link
+        description: ""
+      - name: idm替代，ndm
+        url: https://www.neatdownloadmanager.com/index.php/en/
+        icon: fas fa-link
+        description: ""
+      - name: Listen 1 音乐播放器
+        url: http://listen1.github.io/listen1/
+        icon: fab fa-github
+        description: ""
+      - name: weLink
+        url: http://web.xjtelecom.com.cn/Ctyrzserver/thirdpart/weLink/down.jsp
+        icon: fas fa-link
+        description: ""
+      - name: GitHub Proxy 代理加速
+        url: https://ghproxy.com/
+        icon: fas fa-link
+        description: ""
+      - name: finalshell
+        url: http://www.hostbuf.com/?install_fs
+        icon: fas fa-link
+        description: ""
+      - name: Docker Hub
+        url: https://hub.docker.com/
+        icon: fab fa-docker
+        description: ""
+      - name: GitLink | 确实开源
+        url: https://www.gitlink.org.cn/
+        icon: fas fa-link
+        description: ""
+      - name: WebRA - 私域 不迷路
+        url: https://www.webra.top/
+        icon: fas fa-link
+        description: ""
+      - name: 首页 - 人人影视下载分享站
+        url: https://yyets.dmesg.app/home
+        icon: fas fa-link
+        description: ""
+      - name: "geektutu/7days-golang: 7 days golang programs from scratch (web framework Gee, distributed cache GeeCache, object relational mapping ORM framework GeeORM, rpc framework GeeRPC etc) 7天用Go动手写/从零实现系列"
+        url: https://github.com/geektutu/7days-golang
+        icon: fab fa-github
+        description: ""
+      - name: 白马程序员
+        url: https://itbaima.net/#/curriculum
+        icon: fas fa-link
+        description: ""
+      - name: Regex.ai - Artificial Intelligence Regular Expression Generator
+        url: https://regex.ai/?utm_source=appinn.com
+        icon: fas fa-link
+        description: ""
+      - name: 百度翻译开放平台
+        url: https://fanyi-api.baidu.com/api/trans/product/desktop?req=detail
+        icon: fas fa-link
+        description: ""
+      - name: USTC Open Source Software Mirror
+        url: https://mirrors.ustc.edu.cn/
+        icon: fas fa-link
+        description: ""
+      - name: 山海之花网站
+        url: https://bzxqw.top/
+        icon: fas fa-link
+        description: ""
+      - name: GitHub 文件加速
+        url: https://gh.api.99988866.xyz/
+        icon: fas fa-link
+        description: ""
+      - name: switch_第 2 页_xxxxx520
+        url: https://www.xxxxx520.vip/category/switch/page/2
+        icon: fas fa-link
+        description: ""
+      - name: 夜色Acg永久地址发布页，收藏我回家不迷路！
+        url: https://www.yese54.top/
+        icon: fas fa-link
+        description: ""
+      - name: "安装 K8s 集群 | Sealos: 专为云原生开发打造的以 K8s 为内核的云操作系统"
+        url: https://sealos.run/docs/5.0.0/developer-guide/lifecycle-management/quick-start/deploy-kubernetes/
+        icon: fas fa-link
+        description: ""
+      - name: 观影 GYING
+        url: https://www.gying.net/
+        icon: fas fa-link
+        description: ""
+      - name: 火山引擎-域名服务
+        url: https://console.volcengine.com/domain-service/domain
+        icon: fas fa-link
+        description: ""
+      - name: 随时随地连接、保护、构建 | Cloudflare
+        url: https://www.cloudflare.com/zh-cn/
+        icon: fas fa-link
+        description: ""
+      - name: 5A 磁力搜索引擎
+        url: https://bt.iaaaaa.com/
+        icon: fas fa-link
+        description: ""
+  - name: 盒子刷机
+    icon: fas fa-folder
+    sites:
+      - name: Index of /
+        url: https://dl.ecoo.top:2096/
+        icon: fas fa-link
+        description: ""
+      - name: 【新提醒】恩山无线论坛
+        url: https://www.right.com.cn/forum/portal.php
+        icon: fas fa-link
+        description: ""
+      - name: 智能电视网_智能电视论坛_智能电视软件_智能电视游戏_安卓机顶盒论坛
+        url: https://www.znds.com/index.php
+        icon: fas fa-link
+        description: ""
+      - name: 华为海思机顶盒usb卡刷linux固件保姆教程_华为盒子论坛_ZNDS
+        url: https://www.znds.com/tv-1221934-1-1.html
+        icon: fas fa-link
+        description: ""
+      - name: 海思芯机顶盒NAS系统
+        url: https://www.histb.com/#services
+        icon: fas fa-link
+        description: ""
+      - name: Home | imlk&amp;apos;s blog
+        url: https://blog.imlk.top/
+        icon: fas fa-link
+        description: ""
+      - name: OpenWrt固件下载与在线定制编译
+        url: https://supes.top/?version=22.03&amp;target=x86%2F64&amp;id=generic
+        icon: fas fa-link
+        description: ""
+      - name: 智能电视固件_魔百和固件_电视盒子第三方固件下载_小白刷机网
+        url: http://xiaobaishuaji.com/
+        icon: fas fa-link
+        description: ""
+      - name: Manjaro
+        url: https://manjaro.org/
+        icon: fas fa-link
+        description: ""
+      - name: Bleach OpenWrt | lede/x86_64
+        url: https://openwrt.mpdn.fun:8443/?dir=lede/x86_64/
+        icon: fas fa-link
+        description: ""
+      - name: Vontar X4-slimBOXtv
+        url: https://slimboxtv.ru/vontar-x4/
+        icon: fas fa-link
+        description: ""
+      - name: EmuELEC稳定版
+        url: https://www.emuelec.cn/category/release/stable
+        icon: fas fa-link
+        description: ""
+      - name: 老男人游戏网 | OldmanEmu.net
+        url: https://www.oldmanemu.net/
+        icon: fas fa-link
+        description: ""
+      - name: ""
+        url: https://yyets.dmesg.app/
+        icon: fas fa-link
+        description: ""
+      - name: 公众号
+        url: https://mp.weixin.qq.com/cgi-bin/home?t=home/index&amp;token=822599428&amp;lang=zh_CN
+        icon: fas fa-link
+        description: ""
+      - name: p.myccdn.info/console/device/list
+        url: https://p.myccdn.info/console/device/list
+        icon: fas fa-link
+        description: ""
+      - name: 发一个自用兆能M2固件，无WIFI无USB超精简版本-OPENWRT专版-恩山无线论坛
+        url: https://www.right.com.cn/forum/forum.php?mod=viewthread&amp;tid=8413806&amp;highlight=%E5%85%86%E8%83%BDm2
+        icon: fas fa-link
+        description: ""
+      - name: 分享给需要的 兆能M2 适用6.6内核的pushbot和lucky安装包apk-OPENWRT专版-恩山无线论坛
+        url: https://www.right.com.cn/forum/forum.php?mod=viewthread&amp;tid=8420338&amp;highlight=%E5%85%86%E8%83%BDm2
+        icon: fas fa-link
+        description: ""
+  - name: 开源项目
+    icon: fas fa-folder
+    sites:
+      - name: "LmeSzinc/AzurLaneAutoScript: Azur Lane bot (CN/EN/JP/TW) 碧蓝航线脚本 | 无缝委托科研，全自动大世界"
+        url: https://github.com/LmeSzinc/AzurLaneAutoScript
+        icon: fab fa-github
+        description: ""
+      - name: "GitHub - jeessy2/ddns-go: 简单好用的DDNS。自动更新域名解析到公网IP(支持阿里云、腾讯云dnspod、Cloudflare、华为云、百度云、porkbun)"
+        url: https://github.com/jeessy2/ddns-go
+        icon: fab fa-github
+        description: ""
+      - name: "GitHub - kon9chunkit/GitHub-Chinese-Top-Charts: GitHub中文排行榜，帮助你发现高分优秀中文项目、更高效地吸收国人的优秀经验成果；榜单每周更新一次，敬请关注！"
+        url: https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts#%E7%9B%AE%E5%BD%95
+        icon: fab fa-github
+        description: ""
+      - name: Releases · fatedier/frp · GitHub
+        url: https://github.com/fatedier/frp
+        icon: fab fa-github
+        description: ""
+      - name: Nginx-tutorial_奇链 - 一个神奇的网站
+        url: https://www.dbyun.net/code/detail/301
+        icon: fas fa-link
+        description: ""
+      - name: 使用 GitHub Actions 云编译 OpenWrt - P3TERX ZONE
+        url: https://p3terx.com/archives/build-openwrt-with-github-actions.html
+        icon: fas fa-link
+        description: ""
+      - name: "GitHub - selierlin/Share-SSR-V2ray: 🃏 Free SS/SSR/V2ray 免费分享节点账号信息网站"
+        url: https://github.com/selierlin/Share-SSR-V2ray#3-ssssrv2ray%E5%88%86%E4%BA%AB%E8%B4%A6%E5%8F%B7
+        icon: fab fa-github
+        description: ""
+      - name: Docker 安装 | VoceChat
+        url: https://doc.voce.chat/zh-cn/install/install-by-docker
+        icon: fas fa-link
+        description: ""
+      - name: CloudDriveService
+        url: http://localhost:9798/#/?a=1
+        icon: fas fa-link
+        description: ""
+      - name: Linux
+        url: https://www.jenkins.io/doc/book/installing/linux/#red-hat-centos
+        icon: fas fa-link
+        description: ""
+      - name: 藏经阁 - 夜莺云原生监控
+        url: http://n9e.flashcat.cloud/docs/usage/share/
+        icon: fas fa-link
+        description: ""
+      - name: Releases · mengsixing/cdfang-spider
+        url: https://github.com/mengsixing/cdfang-spider
+        icon: fab fa-github
+        description: ""
+      - name: "RipplePiam/MobaXterm-Chinese-Simplified: MobaXterm 简体中文汉化版🌏🖥🖥🖥 【💌慢工精心制作，&quot;提示&quot;也汉化💻】 【😍控件布局精细调整】"
+        url: https://github.com/RipplePiam/MobaXterm-Chinese-Simplified
+        icon: fab fa-github
+        description: ""
+      - name: "sigoden/dufs: A file server that supports static serving, uploading, searching, accessing control, webdav..."
+        url: https://github.com/sigoden/dufs
+        icon: fab fa-github
+        description: ""
+      - name: "ntop/n2n: Peer-to-peer VPN"
+        url: https://github.com/ntop/n2n
+        icon: fab fa-github
+        description: ""
+      - name: "alist-org/alist: 🗂️A file list program that supports multiple storage, powered by Gin and Solidjs. / 一个支持多存储的文件列表程序，使用 Gin 和 Solidjs。"
+        url: https://github.com/alist-org/alist
+        icon: fab fa-github
+        description: ""
+      - name: "中国计算机学会/夜莺监控: 夜莺是一款开源的云原生监控系统，采用 all-in-one 的设计，提供企业级的功能特性，开箱即用的产品体验。推荐升级您的 Prometheus + AlertManager + Grafana 组合方案到夜莺"
+        url: https://gitlink.org.cn/ccfos/nightingale
+        icon: fas fa-link
+        description: ""
+      - name: "xx025/carrot: Free ChatGPT Site List 这儿为你准备了众多免费好用的ChatGPT镜像站点，当前100+站点"
+        url: https://github.com/xx025/carrot
+        icon: fab fa-github
+        description: ""
+      - name: 安装 - 沉浸式翻译
+        url: https://immersive-translate.owenyoung.com/installation
+        icon: fas fa-link
+        description: ""
+      - name: "moshowgame/dbeaver-driver-all: dbeaver所有jdbc驱动都在这，dbeaver all jdbc drivers ,come and download with me , one package come with all jdbc drivers."
+        url: https://github.com/moshowgame/dbeaver-driver-all
+        icon: fab fa-github
+        description: ""
+      - name: (73条消息) dbeaver安装和使用教程_dbeaver使用教程_Mike江的博客-CSDN博客
+        url: https://blog.csdn.net/tennysonsky/article/details/122397486
+        icon: fas fa-link
+        description: ""
+      - name: "qier222/YesPlayMusic: 高颜值的第三方网易云播放器，支持 Windows / macOS / Linux"
+        url: https://github.com/qier222/YesPlayMusic
+        icon: fab fa-github
+        description: ""
+      - name: "GitHub - CorentinTh/it-tools: Collection of handy online tools for developers, with great UX."
+        url: https://github.com/CorentinTh/it-tools
+        icon: fab fa-github
+        description: ""
+      - name: "GitHub - zhuima/awesome-cloudflare: ⛅️ 精选的 Cloudflare 工具、开源项目、指南、博客和其他资源列表。/ ⛅️ A curated list of Cloudflare tools, open source projects, guides, blogs and other resources."
+        url: https://github.com/zhuima/awesome-cloudflare
+        icon: fab fa-github
+        description: ""
+      - name: Kuboard_Kubernetes教程_K8S安装_管理界面
+        url: https://kuboard.cn/
+        icon: fas fa-link
+        description: ""
+      - name: IT Tools - Handy online tools for developers
+        url: https://it-tools.tech/
+        icon: fas fa-link
+        description: ""
+      - name: "DaoCloud/public-image-mirror: 很多镜像都在国外。比如 gcr 。国内下载很慢，需要加速。致力于提供连接全世界的稳定可靠安全的容器镜像服务。"
+        url: https://github.com/DaoCloud/public-image-mirror
+        icon: fab fa-github
+        description: ""
+      - name: Regex.ai - Artificial Intelligence Regular Expression Generator
+        url: https://regex.ai/
+        icon: fas fa-link
+        description: ""
+  - name: jiasu
+    icon: fas fa-folder
+    sites:
+      - name: 一元机场
+        url: https://xn--4gq62f52gdss.ink/
+        icon: fas fa-link
+        description: ""
+      - name: 魔法云加速
+        url: https://www.681688.xyz/index.php#/plan
+        icon: fas fa-link
+        description: ""
+      - name: Speedssinc
+        url: https://speedssinc.com/user
+        icon: fas fa-link
+        description: ""
+      - name: App Settings
+        url: https://eu-cxwhcsovzbk.doprax.com/wangyuheng/projects/b6a621d6-c3cf-11ed-b563-901b0eed547d/settings/
+        icon: fas fa-link
+        description: ""
+      - name: 使用 Doprax.com 搭建免费高速 v2ray 节点_HiFeng&#039;Blog
+        url: https://www.hicairo.com/post/55.html
+        icon: fas fa-link
+        description: ""
+      - name: Free dynamic DNS for IPv6
+        url: https://dynv6.com/
+        icon: fas fa-link
+        description: ""
+      - name: 镜缘映射|首页
+        url: https://www.mefrp.com/
+        icon: fas fa-link
+        description: ""
+      - name: 首页 | OpenFrp管理面板
+        url: https://console.openfrp.net/home/dashboard
+        icon: fas fa-link
+        description: ""
+      - name: GitHub Proxy 代理加速
+        url: https://ghfast.top/
+        icon: fas fa-link
+        description: ""
+  - name: 娱乐
+    icon: fas fa-folder
+    sites:
+      - name: 阅读
+        url: https://reader.nxnow.top/#/
+        icon: fas fa-link
+        description: ""
+      - name: 四川岷江音乐频率 - 在线收听「高保真」 - FM95.5 - TingFM
+        url: http://player.tingfm.com/?id=159
+        icon: fas fa-link
+        description: ""
+      - name: OmoFun动漫视频网 - (￣﹃￣)~omO
+        url: https://omofun.tv/
+        icon: fas fa-link
+        description: ""
+      - name: Live
+        url: http://live.yj1211.work/index/home/recommend
+        icon: fas fa-link
+        description: ""
+      - name: 奶牛快传 | 免费大文件传输工具 上传下载不限速
+        url: https://cowtransfer.com/
+        icon: fas fa-link
+        description: ""
+      - name: 555电影_最新Netflix新剧_韩国电影免费在线观看
+        url: https://www.5dy6.vip/
+        icon: fas fa-link
+        description: ""
+      - name: 我的关注 - 斗鱼
+        url: https://www.douyu.com/directory/myFollow
+        icon: fas fa-link
+        description: ""
+      - name: 哔哩哔哩 (゜-゜)つロ 干杯~-bilibili
+        url: https://www.bilibili.com/
+        icon: fas fa-link
+        description: ""
+      - name: 部署 Rancher Server | Rancher Manager
+        url: https://ranchermanager.docs.rancher.com/zh/pages-for-subheaders/deploy-rancher-manager
+        icon: fas fa-link
+        description: ""
+      - name: 【新提醒】玩家聚会的网站 - Powered by Discuz!
+        url: https://www.tekqart.com/forum.php
+        icon: fas fa-link
+        description: ""
+      - name: Neat Reader - Web App在线读mobi
+        url: https://www.neat-reader.cn/webapp#/
+        icon: fas fa-link
+        description: ""
+      - name: TelSearch | TG搜索 | 电报搜索 | Telegram 搜索
+        url: https://telsearch.long2ice.io/search?k=%E6%85%95%E8%AF%BE%E7%BD%91&amp;t=all&amp;o=0
+        icon: fas fa-link
+        description: ""
+      - name: 书源列表 - 阅读书源 - 源仓库
+        url: https://www.yckceo.com/yuedu/shuyuan/index.html
+        icon: fas fa-link
+        description: ""
+      - name: 摸摸鱼热榜
+        url: https://momoyu.cc/
+        icon: fas fa-link
+        description: ""
+      - name: Practice your coding skills on short coding contests - Clash of Code
+        url: https://www.codingame.com/multiplayer/clashofcode
+        icon: fas fa-link
+        description: ""
+      - name: Super Auto Pets by teamwood
+        url: https://teamwood.itch.io/super-auto-pets
+        icon: fas fa-link
+        description: ""
+      - name: SMS-Activate是在线接受短信的虚拟号码服务
+        url: https://sms-activate.org/cn
+        icon: fas fa-link
+        description: ""
+      - name: Radmin LAN – 下载免费 LAN 软件
+        url: https://www.radmin-lan.cn/
+        icon: fas fa-link
+        description: ""
+      - name: "openwrt-fork/zn-m2-openwrt-build: zn-m2 kernel4.4 无WIFI 无USB"
+        url: https://github.com/openwrt-fork/zn-m2-openwrt-build
+        icon: fab fa-github
+        description: ""
+      - name: 创建账号 | Terminus 终点站 WIKI
+        url: https://embywiki.911997.xyz/docs/base/create-account/
+        icon: fas fa-link
+        description: ""
+      - name: 兆能m2固件(znm2)-OPENWRT专版-恩山无线论坛
+        url: https://www.right.com.cn/forum/forum.php?mod=viewthread&amp;tid=8346882&amp;highlight=%E5%85%86%E8%83%BDm2
+        icon: fas fa-link
+        description: ""
+      - name: Pokerogue - Pokemon Roguelike Game
+        url: https://pokerogue.org/
+        icon: fas fa-link
+        description: ""
+      - name: FUUN.FUN - 奇趣网站收藏家
+        url: https://fuun.fun/
+        icon: fas fa-link
+        description: ""
+      - name: 大灰狼地址发布页，收藏我回家不迷路！
+        url: https://dashabi.tk/
+        icon: fas fa-link
+        description: ""
+      - name: "BTSCHOOL :: 首页 比特校园PT小乐园 - Powered by NexusPHP"
+        url: https://pt.btschool.club/index.php
+        icon: fas fa-link
+        description: ""
+      - name: LINUX DO
+        url: https://linux.do/latest
+        icon: fas fa-link
+        description: ""
+      - name: "[开源]一个个人主页/导航静态网站，可托管到GitHub / Cloudflare Pages自动化构建部署，求star - 开发调优 - LINUX DO"
+        url: https://linux.do/t/topic/614493
+        icon: fas fa-link
+        description: ""
+      - name: V2EX
+        url: https://v2ex.com/
+        icon: fas fa-link
+        description: ""
+      - name: PT 下载从入门到养老篇一：站点介绍及生存指南 | 回声
+        url: https://iecho.cc/2019/01/09/beginners-guide-to-private-tracker-1/
+        icon: fas fa-link
+        description: ""
+      - name: Home · pt-plugins/PT-Plugin-Plus Wiki · GitHub
+        url: https://github.com/pt-plugins/PT-Plugin-Plus/wiki
+        icon: fab fa-github
+        description: ""
+      - name: PTSKIT的种子 —— 短的是时间
+        url: https://www.ptskit.com/torrents.php
+        icon: fas fa-link
+        description: ""
+  - name: 工作
+    icon: fas fa-folder
+    sites:
+      - name: 自动化运维监控软件
+        url: https://ke.qq.com/webcourse/index.html#cid=162814&amp;term_id=100199080&amp;taid=2483105277574142&amp;vid=5285890787994560647
+        icon: fas fa-link
+        description: ""
+      - name: Linux命令大全(手册) &amp;ndash; 真正好用的Linux命令在线查询网站
+        url: https://www.linuxcool.com/
+        icon: fas fa-link
+        description: ""
+      - name: 阿里云网站运维检测平台
+        url: https://boce.aliyun.com/detect/http
+        icon: fas fa-link
+        description: ""
+      - name: Nginx在线配置生成工具
+        url: https://www.nginxedit.cn/#
+        icon: fas fa-link
+        description: ""
+      - name: Cursor | Build Fast
+        url: https://www.cursor.so/
+        icon: fas fa-link
+        description: ""
+      - name: Docker | Grafana Loki documentation
+        url: https://grafana.com/docs/loki/latest/installation/docker/
+        icon: fas fa-link
+        description: ""
+      - name: Apifox
+        url: https://app.apifox.com/main
+        icon: fas fa-link
+        description: ""
+      - name: https://www.topgoer.com/开发环境/配置gopath.html
+        url: https://www.topgoer.com/%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83/%E9%85%8D%E7%BD%AEgopath.html
+        icon: fas fa-link
+        description: ""
+      - name: Go 国内加速：Go 国内加速镜像 | Go 技术论坛
+        url: https://learnku.com/go/wikis/38122
+        icon: fas fa-link
+        description: ""
+      - name: 腾讯云-GTS统一办公桌面云
+        url: https://desktopcloud.tencent.com/logon/LogonPoint/tmindex.html
+        icon: fas fa-link
+        description: ""
+      - name: 在 Linux 上以 All-in-One 模式安装 KubeSphere
+        url: https://kubesphere.io/zh/docs/v3.4/quick-start/all-in-one-on-linux/
+        icon: fas fa-link
+        description: ""
+  - name: 个人
+    icon: fas fa-folder
+    sites:
+      - name: 帐户主页 | 1194931390@qq.com&#039;s Account | Cloudflare
+        url: https://dash.cloudflare.com/6b22c47a2d3a5d7f31f61e8ac343c6e1/home/domains
+        icon: fas fa-link
+        description: ""
+      - name: fnnas - 飞牛私有云fnOS
+        url: https://wyh-fn.5ddd.com/
+        icon: fas fa-link
+        description: ""
+      - name: "[原创]最快的访问！使用Cloudflare+CDN节点优选+workers重定向lucky的ipv4-stun穿透http请求 – FishTca&#039;s Blog"
+        url: https://www.ytca.top/guidance/1708/
+        icon: fas fa-link
+        description: ""
+      - name: CloudSaver
+        url: https://hhvlkzdysksv.ap-southeast-1.clawcloudrun.com/resource
+        icon: fas fa-link
+        description: ""
+      - name: 资源荟萃中的最新PT话题 - LINUX DO
+        url: https://linux.do/tags/c/resource/14/pt
+        icon: fas fa-link
+        description: ""
+      - name: 5A 磁力搜索引擎
+        url: https://bt.iaaaaa.com/
+        icon: fas fa-link
+        description: ""
+      - name: ↓0 B/s ↑324.2 KB/s - TrguiNG
+        url: http://192.168.1.115:9092/transmission/web/
+        icon: fas fa-link
+        description: ""
+      - name: PT-Accelerator
+        url: http://192.168.1.115:23333/
+        icon: fas fa-link
+        description: ""
+  - name: 白嫖建站
+    icon: fas fa-folder
+    sites:
+      - name: CloudSaver
+        url: https://hhvlkzdysksv.ap-southeast-1.clawcloudrun.com/resource
+        icon: fas fa-link
+        description: ""
+      - name: wyh Web App
+        url: https://usufxpcogkjm.ap-southeast-1.clawcloudrun.com/?name=movie#/users
+        icon: fas fa-link
+        description: ""
+      - name: Claw Cloud
+        url: https://ap-southeast-1.run.claw.cloud/
+        icon: fas fa-link
+        description: ""
+      - name: LibreTV - 免费在线视频搜索与观看平台
+        url: https://libretv.wyhddns.top/
+        icon: fas fa-link
+        description: ""
+      - name: 阿先生blog
+        url: https://blog.wyhddns.top/
+        icon: fas fa-link
+        description: ""
+      - name: 用户中心 | 林柚云
+        url: https://www.idcyou.cn/clientarea
+        icon: fas fa-link
+        description: ""
+      - name: Duck DNS
+        url: https://www.duckdns.org/login-github?code=47b6e372a44068760361&amp;state=uhoibougyohouhpyh87yy
+        icon: fas fa-link
+        description: ""
+  - name: pt站
+    icon: fas fa-folder
+    sites:
+      - name: M-Team
+        url: https://kp.m-team.cc/
+        icon: fas fa-link
+        description: ""
+      - name: "PTT :: 1194931390 签到记录 - 分享你所爱，他所求，得我所愿！"
+        url: https://www.pttime.org/attendance.php?type=sign&amp;uid=108877
+        icon: fas fa-link
+        description: ""
+      - name: "BTSCHOOL :: 登录 比特校园PT小乐园 - Powered by NexusPHP"
+        url: https://pt.btschool.club/login.php
+        icon: fas fa-link
+        description: ""
+      - name: 站点 | MoviePilot Wiki
+        url: https://wiki.movie-pilot.org/zh/site
+        icon: fas fa-link
+        description: ""
+      - name: "雨 :: 签到 - Powered by NexusPHP"
+        url: https://raingfh.top/attendance.php
+        icon: fas fa-link
+        description: ""
+      - name: "财神 :: 签到 - Powered by NexusPHP"
+        url: https://cspt.top/attendance.php
+        icon: fas fa-link
+        description: ""
+      - name: "PANDA :: 签到 熊猫高清"
+        url: https://pandapt.net/attendance.php
+        icon: fas fa-link
+        description: ""
+      - name: "BTSCHOOL :: 查看主题 &quot;PT一键转载脚本使用教程（手把手教学版）&quot; 比特校园PT小乐园 - Powered by NexusPHP"
+        url: https://pt.btschool.club/forums.php?action=viewtopic&amp;forumid=5&amp;topicid=5282
+        icon: fas fa-link
+        description: ""
+      - name: "铂金学院 :: 签到 - Powered by NexusPHP"
+        url: https://ptchina.org/attendance.php
+        icon: fas fa-link
+        description: ""
+      - name: "咖啡 :: 签到 - Powered by NexusPHP"
+        url: https://ptcafe.club/attendance.php
+        icon: fas fa-link
+        description: ""
+      - name: "HDSky :: 登录 高清视界|高清天空|高清发烧友的后花园 - Powered by NexusPHP"
+        url: https://hdsky.me/login.php
+        icon: fas fa-link
+        description: ""
+      - name: "HDTIME :: 登录 高清时间 | pt｜下载｜10bit |HDTimePT - Powered by NexusPHP"
+        url: https://hdtime.org/login.php
+        icon: fas fa-link
+        description: ""
+      - name: "52PT :: 登录 - Powered by NexusPHP"
+        url: https://52pt.site/login.php
+        icon: fas fa-link
+        description: ""
+      - name: "OurBits :: 登录 - Powered by NexusPHP"
+        url: https://ourbits.club/login.php
+        icon: fas fa-link
+        description: ""
+      - name: HDR-登录页(思路)
+        url: http://hdroute.org/login.php
+        icon: fas fa-link
+        description: ""
+      - name: "(彩虹岛)CHDBits :: 登录 - Powered by NexusPHP"
+        url: https://chdbits.co/login.php
+        icon: fas fa-link
+        description: ""
+      - name: "SSD :: 登录"
+        url: https://springsunday.net/login.php
+        icon: fas fa-link
+        description: ""
+      - name: "TCCF :: 登录"
+        url: https://et8.org/login.php
+        icon: fas fa-link
+        description: ""
+      - name: "TTG :: 用户登录"
+        url: https://totheglory.im/login.php?returnto=%2Fupload.php
+        icon: fas fa-link
+        description: ""
+      - name: "ＰＴ之友俱乐部 :: 登录 PTerClub"
+        url: https://pterclub.com/login.php
+        icon: fas fa-link
+        description: ""
+      - name: "NicePT :: 登錄 - Powered by NexusPHP"
+        url: https://www.nicept.net/login.php
+        icon: fas fa-link
+        description: ""
+      - name: "HHCLUB :: 登录 - Powered by NexusPHP"
+        url: https://hhanclub.top/login.php?returnto=details.php%3Fid%3D165880
+        icon: fas fa-link
+        description: ""
+      - name: "52PT :: 查看主题 &quot;借助STUN，使BT下载开绿灯（第一期：理论讲解）&quot; - Powered by NexusPHP"
+        url: https://52pt.site/forums.php?action=viewtopic&amp;forumid=2&amp;topicid=931
+        icon: fas fa-link
+        description: ""
+      - name: "UBits :: 登录 - Powered by NexusPHP"
+        url: https://ubits.club/login.php?returnto=details.php%3Fid%3D227258
+        icon: fas fa-link
+        description: ""
+      - name: "蟹黄堡 :: 首页 - Powered by NexusPHP"
+        url: https://crabpt.vip/index.php
+        icon: fas fa-link
+        description: ""
+      - name: "大青虫 :: 签到 - Powered by NexusPHP"
+        url: https://cyanbug.net/attendance.php
+        icon: fas fa-link
+        description: ""
+      - name: "HDKylin - 麒麟 :: 签到 - Powered by NexusPHP"
+        url: https://www.hdkyl.in/attendance.php
+        icon: fas fa-link
+        description: ""
+      - name: PTSKIT的签到 - 短的是时间，长的是热爱
+        url: https://www.ptskit.org/attendance.php
+        icon: fas fa-link
+        description: ""
+      - name: "百川PT :: 签到 - Powered by NexusPHP"
+        url: https://www.hitpt.com/attendance.php
+        icon: fas fa-link
+        description: ""
+      - name: "HDArea :: 首页 High Definition Area|高清视界 - Powered by NexusPHP"
+        url: https://hdarea.club/index.php
+        icon: fas fa-link
+        description: ""
+      - name: "Arctic Global Seed Vault :: 签到 - Powered by NexusPHP"
+        url: https://pt.agsvpt.cn/attendance.php
+        icon: fas fa-link
+        description: ""
+      - name: "UBits :: 签到 - Powered by NexusPHP"
+        url: https://ubits.club/attendance.php
+        icon: fas fa-link
+        description: ""
+      - name: Starship
+        url: https://pt.keepfrds.com/login.php
+        icon: fas fa-link
+        description: ""
+      - name: "Audiences :: 种子 - Powered by NexusPHP"
+        url: https://audiences.me/torrents.php?cat401=1&amp;cat402=1&amp;cat403=1&amp;cat406=1&amp;showmovie=yes
+        icon: fas fa-link
+        description: ""
+      - name: "PTLGS :: 首页"
+        url: https://ptlgs.org/
+        icon: fas fa-link
+        description: ""
+      - name: "PTzone :: 種子 - Powered by NexusPHP"
+        url: https://ptzone.xyz/torrents.php
+        icon: fas fa-link
+        description: ""
+      - name: "我的PT(CC) | 人類資源庫 :: 簽到 | 中國-臺灣"
+        url: https://cc.mypt.cc/attendance.php
+        icon: fas fa-link
+        description: ""
+      - name: "星陨阁 :: 签到 - Powered by NexusPHP"
+        url: https://pt.xingyungept.org/attendance.php
+        icon: fas fa-link
+        description: ""
+      - name: 蜂巢
+        url: https://pting.club/
+        icon: fas fa-link
+        description: ""
+      - name: "思齐 :: 签到 高清图像书站"
+        url: https://si-qi.xyz/attendance.php
+        icon: fas fa-link
+        description: ""
+      - name: "首页 :: 朱雀 - ZHUQUE :: Powered By TNode"
+        url: https://zhuque.in/index
+        icon: fas fa-link
+        description: ""
+      - name: "HDTIME :: 签到 高清时间 | pt｜下载｜10bit |HDTimePT - Powered by NexusPHP"
+        url: https://hdtime.org/attendance.php
+        icon: fas fa-link
+        description: ""
+      - name: Transmission保姆教程，套件+Docker双版本，安装+汉化全流程 - 知乎
+        url: https://zhuanlan.zhihu.com/p/1908218443079090654
+        icon: fas fa-link
+        description: ""
+      - name: qBittorrent v5.1.0 WebUI
+        url: http://222.186.57.23:27884/
+        icon: fas fa-link
+        description: ""
+      - name: qBittorrent Enhanced Edition v4.6.3.10 Web UI
+        url: http://hz.wyhddns.top:9080/
+        icon: fas fa-link
+        description: ""
+      - name: 1194931390 (1194931390) - IMG.TG
+        url: https://img.tg/1194931390
+        icon: fas fa-link
+        description: ""
+      - name: 新建标签页
+        url: edge://newtab/
+        icon: fas fa-link
+        description: ""
+      - name: 搜索结果 &quot;微信代理&quot; - 网络空间测绘，网络空间安全搜索引擎，网络空间搜索引擎，安全态势感知 - FOFA网络空间测绘系统
+        url: https://fofa.info/result?qbase64=IuW%2BruS%2FoeS7o%2BeQhiI%3D
+        icon: fas fa-link
+        description: ""
+      - name: 我的导航
+        url: https://menav.wyhddns.top/
+        icon: fas fa-link
+        description: ""
+      - name: Google
+        url: https://www.google.com/?gws_rd=ssl#spf=1624331384824
+        icon: fab fa-google
+        description: ""
+      - name: Google 翻译
+        url: https://translate.google.com/?hl=zh
+        icon: fab fa-google
+        description: ""
+  - name: 接单
+    icon: fas fa-folder
+    sites:
+      - name: 常用日志工具查询地址
+        url: https://andon.woa.com/knowledgeV3/articledetail/18565
+        icon: fas fa-link
+        description: ""
+      - name: 云监控接入平台
+        url: http://admin.barad.woa.com/index.php/page/api
+        icon: fas fa-link
+        description: ""
+      - name: 巴拉多(NEW)
+        url: http://barad.isd.com/metric/index.php?ns=qce/tke2
+        icon: fas fa-link
+        description: ""
+      - name: 安灯 &gt; 智能辅助 &gt; Copilot
+        url: https://andon.woa.com/mobile/aigc/chat
+        icon: fas fa-link
+        description: ""
+      - name: 运维工具
+        url: http://mot.woa.com/
+        icon: fas fa-link
+        description: ""
+      - name: 消息查询工具 - 消息中心
+        url: https://yehe.woa.com/message-center/messageQuery
+        icon: fas fa-link
+        description: ""
+      - name: Discover - Kibana
+        url: http://barad.log.woa.com/app/kibana#/discover?_g=(refreshInterval:(pause:!t,value:0),time:(from:now-24h,mode:quick,to:now))&amp;_a=(columns:!(message,offset),index:&#039;*&#039;,interval:auto,query:(language:lucene,query:&#039;&#039;),sort:!(_score,desc))
+        icon: fas fa-link
+        description: ""
+      - name: ADP2.0排查面板--barad &amp;&amp; tke - Grafana
+        url: http://observe.woa.com:8081/d/VkIXFf07k/adp2-0pai-cha-mian-ban-barad-andand-tke?orgId=1255310092&amp;var-region=ap_beijing&amp;var-cgiPolicyId=policy-w8vkhm4f&amp;var-groupId=3467896&amp;var-policyId=a3cd6e9f-ee76-47f1-84e4-c3ac7f1304b5
+        icon: fas fa-link
+        description: ""
+      - name: 告警配置 - Barad自助接入
+        url: http://admin2.barad.woa.com/alarm
+        icon: fas fa-link
+        description: ""
+      - name: Prometheus 管理后台
+        url: http://prom-admin.woa.com/?#/data/instances
+        icon: fas fa-link
+        description: ""
+      - name: 工具地图
+        url: https://andon.woa.com/tool/map/#/
+        icon: fas fa-link
+        description: ""
+      - name: Andon - 客户坐席系统
+        url: https://andon.woa.com/cloud-service-im/chat/#/conversation/
+        icon: fas fa-link
+        description: ""
+      - name: 工作台首页 | 我是当前处理人
+        url: https://andon.woa.com/micro/base/workbench/director
+        icon: fas fa-link
+        description: ""
+      - name: Andon平台（排班）
+        url: https://andon.woa.com/micro/base/admin/schedule
+        icon: fas fa-link
+        description: ""
+      - name: 智研-工作台
+        url: https://zhiyan.woa.com/worktable#/
+        icon: fas fa-link
+        description: ""
+      - name: CLB运营平台
+        url: https://clb.woa.com/lb/
+        icon: fas fa-link
+        description: ""
+      - name: Discover - Elastic
+        url: http://eb-log.woa.com/app/discover#/?_g=(filters:!(),refreshInterval:(pause:!t,value:0),time:(from:now-6d,to:now))&amp;_a=(columns:!(RequestId,Action,Caller,Callee,AppId,CalleeAction,Module,CalleeEndpoint,LogContent),filters:!(),index:&#039;21763ba0-4b7b-11ec-8c1a-697c3c2d4bcb&#039;,interval:auto,query:(language:kuery,query:ins-rylrn4dp),sort:!())
+        icon: fas fa-link
+        description: ""
+      - name: pilot.woa.com  cdb查询
+        url: http://pilot.woa.com/#/product/cdbInst/
+        icon: fas fa-link
+        description: ""
+      - name: 腾讯云可观测平台简介_腾讯云可观测平台购买指南_腾讯云可观测平台操作指南-腾讯云
+        url: https://cloud.tencent.com/document/product/248
+        icon: fas fa-link
+        description: ""
+      - name: Console - Kibana
+        url: http://es-qaqozkrq.internal.kibana.tencentelasticsearch.com/app/kibana#/dev_tools/console?_g=()
+        icon: fas fa-link
+        description: ""
+      - name: Discover - Elastic
+        url: https://eb-log.woa.com/app/discover#/?_g=(filters:!(),refreshInterval:(pause:!t,value:0),time:(from:now-6h,to:now))&amp;_a=(columns:!(CalleeEndpoint,Callee,RequestId,RuleID,Module,LogContent),filters:!((&#039;$state&#039;:(store:appState),meta:(alias:!n,disabled:!f,index:&#039;1e9ce4a0-5315-11ec-8c1a-697c3c2d4bcb&#039;,key:CalleeEndpoint,negate:!f,params:(query:crs-0u6wuvsw),type:phrase),query:(match_phrase:(CalleeEndpoint:crs-0u6wuvsw)))),index:&#039;21763ba0-4b7b-11ec-8c1a-697c3c2d4bcb&#039;,interval:auto,query:(language:kuery,query:&#039;&#039;),sort:!())
+        icon: fas fa-link
+        description: ""
+      - name: 智研-日志汇
+        url: https://zhiyan.woa.com/log/8641/analyze/#/analyze/query?from=1&amp;size=30&amp;showMode=source&amp;filters=%5B%7B%22id%22%3A2,%22field%22%3A%22%40podname%22,%22operation%22%3A%22like%22,%22fieldValue%22%3A%7B%22value%22%3A%22eb-access%2a%22,%22from%22%3A%22%22,%22to%22%3A%22%22,%22oneOf%22%3A%5B%5D%7D%7D%5D&amp;order=desc&amp;pid=8641&amp;dataflowIds=3042282&amp;query=ins-hsbok5yl&amp;env=&amp;env_id=-1&amp;queryType=0&amp;searchType=lucene&amp;startTimeValue=1700582400000&amp;endTimeValue=1700668799999&amp;startTimeType=absolute&amp;endTimeType=absolute
+        icon: fas fa-link
+        description: ""
+      - name: 自助查询 - 访问管理(CAM)
+        url: https://yehe.woa.com/cam/query-account-info/user-policy-query
+        icon: fas fa-link
+        description: ""
+      - name: TSS - 常用工具
+        url: https://andon.woa.com/tool/platform/index?smenu_id=433
+        icon: fas fa-link
+        description: ""
+      - name: 11.177.120.193_3306 new_instance
+        url: https://secmyadmin.woa.com/#/app/dbs/index?server=8?session=fSHuRD9rWpVdgcHt?localdb=event_bridge
+        icon: fas fa-link
+        description: ""
+      - name: 各地域Triggerdelay信息查询 - Grafana
+        url: https://observe.woa.com:8081/d/cbjx6v9Mk/ge-di-yu-triggerdelayxin-xi-cha-xun?orgId=1255310092&amp;var-region=Barad_LocalCDB_sh
+        icon: fas fa-link
+        description: ""
+      - name: 对外监控metrics - 腾讯iWiki
+        url: https://iwiki.woa.com/p/23955341#k8s-pod-rate-cpu-core-used-request
+        icon: fas fa-link
+        description: ""
+      - name: TKE运营平台
+        url: https://tke.woa.com/oss/tke/control-center/resource/cluster
+        icon: fas fa-link
+        description: ""
+      - name: 智研-日志汇
+        url: https://zhiyan.woa.com/log/8463/analyze/#/analyze/query?from=1&amp;size=30&amp;showMode=source&amp;filters=%5B%7B%22field%22%3A%22__CONTENT__%22,%22operation%22%3A%22is%22,%22fieldValue%22%3A%7B%22value%22%3A%22handle_channels%2Fwework_robot_handle.go%3A%2a%22%7D,%22disabled%22%3Atrue%7D,%7B%22field%22%3A%22__CONTENT__%22,%22operation%22%3A%22like%22,%22fieldValue%22%3A%7B%22value%22%3A%22conn%2Fhttp_request_pool.go%2a%22%7D,%22disabled%22%3Afalse%7D,%7B%22field%22%3A%22__CONTENT__%22,%22operation%22%3A%22is%22,%22fieldValue%22%3A%7B%22value%22%3A%22alertConsumerProcessorEnd%22,%22from%22%3A%22%22,%22to%22%3A%22%22%7D,%22disabled%22%3Atrue%7D,%7B%22field%22%3A%22__CONTENT__%22,%22operation%22%3A%22like%22,%22fieldValue%22%3A%7B%22value%22%3A%22handle_channels%2Ffeishu_robot_handle.go%3A%2a%22,%22from%22%3A%22%22,%22to%22%3A%22%22%7D,%22disabled%22%3Atrue%7D,%7B%22field%22%3A%22__CONTENT__%22,%22operation%22%3A%22like%22,%22fieldValue%22%3A%7B%22value%22%3A%22handle_process%2Fhandle_parallel_processor.go%3A%2a%22,%22from%22%3A%22%22,%22to%22%3A%22%22%7D,%22disabled%22%3Atrue%7D,%7B%22field%22%3A%22__CONTENT__%22,%22operation%22%3A%22like%22,%22fieldValue%22%3A%7B%22value%22%3A%22model%2Fcommon_tools.go%3A%2a%22,%22from%22%3A%22%22,%22to%22%3A%22%22%7D,%22disabled%22%3Atrue%7D,%7B%22key%22%3A%22__CONTENT__%22,%22field%22%3A%22__CONTENT__%22,%22operation%22%3A%22is%22,%22fieldValue%22%3A%7B%22value%22%3A%22conn%2Fhttp_request_pool.go%3A270%22%7D,%22id%22%3A3,%22disabled%22%3Afalse%7D%5D&amp;order=desc&amp;pid=8463&amp;dataflowIds=2653793&amp;query=50e46b46-f1ce-4556-b5ae-895c999e2210&amp;env=&amp;env_id&amp;queryType=0&amp;searchType=lucene&amp;startTimeValue=1714197258000&amp;endTimeValue=1714233208004&amp;startTimeType=absolute&amp;endTimeType=absolute
+        icon: fas fa-link
+        description: ""
+      - name: 运维工具
+        url: http://21.0.56.88:8080/?wework_cfm_code=N9wboN%2FWRVoBDGFKeSi0icY4GXPWWbkfSDSQZa46A2WSlaMg2gLI1I31IDhBNsq7eVtvu%2Bz4OpwQEWtvRSwpbG0%3D
+        icon: fas fa-link
+        description: ""
+      - name: 容器服务运营支撑平台
+        url: https://tke.woa.com/oss/eks/control-center/resource/cluster/cronjob?region=1&amp;clusterId=cls-58k2zubc&amp;appId=1302818205&amp;uin=100015225904&amp;resourceIns=&amp;name=&amp;namespace=prom-22cted7a
+        icon: fas fa-link
+        description: ""
+      - name: CLB运营平台
+        url: https://clb.woa.com/lb
+        icon: fas fa-link
+        description: ""
+      - name: 腾讯云 - API管理
+        url: https://capi.woa.com/log?env=release
+        icon: fas fa-link
+        description: ""
+      - name: 智研-日志汇电话告警
+        url: https://zhiyan.woa.com/log/14698/analyze/#/analyze/query?from=1&amp;size=30&amp;showMode=source&amp;filters=%5B%5D&amp;order=desc&amp;pid=14698&amp;dataflowIds=3292388&amp;dataflowIds=3357870&amp;dataflowIds=3436278&amp;dataflowIds=3437821&amp;dataflowIds=3438276&amp;dataflowIds=3472509&amp;dataflowIds=3314590&amp;query=&amp;queryType=0&amp;searchType=lucene&amp;startTimeValue=1&amp;endTimeValue=1&amp;startTimeType=hours&amp;endTimeType=now
+        icon: fas fa-link
+        description: ""
+      - name: 智研-日志汇
+        url: https://zhiyan.woa.com/log/7224/analyze/#/analyze/query?from=1&amp;size=30&amp;showMode=source&amp;filters=%5B%5D&amp;order=desc&amp;pid=7224&amp;dataflowIds=3500142&amp;dataflowIds=3544096&amp;dataflowIds=3597186&amp;dataflowIds=3621061&amp;query=c35e465c-5c47-47cc-83d0-acabeae8021b&amp;queryType=0&amp;searchType=lucene&amp;startTimeValue=1735488000000&amp;endTimeValue=1735574399999&amp;startTimeType=absolute&amp;endTimeType=absolute
+        icon: fas fa-link
+        description: ""
+      - name: 各地域Triggerdelay信息查询 - Grafana
+        url: https://observe.woa.com:8081/d/cbjx6v9Mk/ge-di-yu-triggerdelayxin-xi-cha-xun?orgId=1255310092&amp;var-region=Barad_LocalCDB_bj
+        icon: fas fa-link
+        description: ""
+      - name: Relabeler - The playground for Prometheus relabeling rules
+        url: https://relabeler.promlabs.com/
+        icon: fas fa-link
+        description: ""
+      - name: Prometheus 监控 - 腾讯云可观测平台 - 控制台
+        url: https://console.cloud.tencent.com/monitor/prometheus/detail/prom-7c9kf5g4/basicDetail/?rid=1
+        icon: fas fa-link
+        description: ""
+      - name: LLM Chat
+        url: https://ai.woa.com/#/chat/dialog
+        icon: fas fa-link
+        description: ""
+      - name: 腾讯云 OrcaTerm
+        url: https://orcaterm.cloud.tencent.com/terminal?type=cvm&amp;instanceId=ins-d1meogxw&amp;region=ap-guangzhou&amp;from=cvm_console_login_btn
+        icon: fas fa-link
+        description: ""
+      - name: 9.220.4.133_3306 2.0库
+        url: https://secmyadmin.woa.com/#/app/dbs/index?server=9?session=EgDsMppCFwn8sPYx?localdb=domain_policy
+        icon: fas fa-link
+        description: ""
+      - name: Unix时间戳(Unix timestamp)转换工具 - 站长工具
+        url: https://tool.chinaz.com/tools/unixtime.aspx
+        icon: fas fa-link
+        description: ""
+      - name: kube-state-metrics/docs at main · kubernetes/kube-state-metrics · GitHub
+        url: https://github.com/kubernetes/kube-state-metrics/tree/main/docs
+        icon: fab fa-github
+        description: ""
+      - name: AIchatOS
+        url: https://chat18.aichatos.xyz/
+        icon: fas fa-link
+        description: ""
+      - name: List directory - /k8s/prometheus-oper/
+        url: http://stu.jxit.net.cn:88/k8s/prometheus-oper/
+        icon: fas fa-link
+        description: ""
+      - name: typingcloub.com
+        url: http://ww25.typingcloub.com/?subid1=20240519-1906-33e6-9868-bd8841e04840
+        icon: fas fa-link
+        description: ""
+      - name: Monkeytype | A minimalistic, customizable typing test
+        url: https://monkeytype.com/
+        icon: fas fa-link
+        description: ""
+      - name: "Kubernetes: kubernetes (k8s) 二进制高可用安装，Binary installation of kubernetes (k8s) --- 开源不易，帮忙点个star，谢谢了🌹"
+        url: https://gitee.com/cby-inc/Kubernetes#https://gitee.com/cby-inc/Kubernetes
+        icon: fas fa-link
+        description: ""
