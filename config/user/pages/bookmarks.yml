@@ -1,5 +1,5 @@
 # 自动生成的书签配置文件
-# 由bookmark-processor.js生成于 2025-07-03T03:16:24.772Z
+# 由bookmark-processor.js生成于 2025-07-04T07:20:31.959Z
 # 若要更新，请将新的书签HTML文件放入bookmarks/目录
 # 此文件使用模块化配置格式，位于config/user/pages/目录下
 
@@ -634,7 +634,7 @@ categories:
         icon: fas fa-link
         description: ""
       - name: fnnas - 飞牛私有云fnOS
-        url: https://wyh-fn.5ddd.com/
+        url: https://fnos.net/wyh-fn
         icon: fas fa-link
         description: ""
       - name: "[原创]最快的访问！使用Cloudflare+CDN节点优选+workers重定向lucky的ipv4-stun穿透http请求 – FishTca&#039;s Blog"
@@ -891,10 +891,6 @@ categories:
         url: https://menav.wyhddns.top/
         icon: fas fa-link
         description: ""
-      - name: zybjr6.aitianhu1.top
-        url: https://zybjr6.aitianhu1.top/
-        icon: fas fa-link
-        description: ""
       - name: Google
         url: https://www.google.com/?gws_rd=ssl#spf=1624331384824
         icon: fab fa-google
@@ -1096,5 +1092,13 @@ categories:
         description: ""
       - name: "Kubernetes: kubernetes (k8s) 二进制高可用安装，Binary installation of kubernetes (k8s) --- 开源不易，帮忙点个star，谢谢了🌹"
         url: https://gitee.com/cby-inc/Kubernetes#https://gitee.com/cby-inc/Kubernetes
+        icon: fas fa-link
+        description: ""
+      - name: zybjr6.aitianhu1.top
+        url: https://zybjr6.aitianhu1.top/
+        icon: fas fa-link
+        description: ""
+      - name: frps dashboard
+        url: http://192.140.163.38:12726/static/#/proxies/tcp
         icon: fas fa-link
         description: ""
