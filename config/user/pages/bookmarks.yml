@@ -1,5 +1,5 @@
 # 自动生成的书签配置文件
-# 由bookmark-processor.js生成于 2025-07-04T07:20:31.959Z
+# 由bookmark-processor.js生成于 2025-07-06T04:47:00.517Z
 # 若要更新，请将新的书签HTML文件放入bookmarks/目录
 # 此文件使用模块化配置格式，位于config/user/pages/目录下
 
@@ -692,6 +692,14 @@ categories:
         url: https://www.duckdns.org/login-github?code=47b6e372a44068760361&amp;state=uhoibougyohouhpyh87yy
         icon: fas fa-link
         description: ""
+      - name: frps dashboard
+        url: http://192.140.163.38:12726/static/#/proxies/tcp
+        icon: fas fa-link
+        description: ""
+      - name: "首页 :: Vertex"
+        url: http://45.129.183.44:3000/index
+        icon: fas fa-link
+        description: ""
   - name: pt站
     icon: fas fa-folder
     sites:
@@ -1096,9 +1104,5 @@ categories:
         description: ""
       - name: zybjr6.aitianhu1.top
         url: https://zybjr6.aitianhu1.top/
-        icon: fas fa-link
-        description: ""
-      - name: frps dashboard
-        url: http://192.140.163.38:12726/static/#/proxies/tcp
         icon: fas fa-link
         description: ""
