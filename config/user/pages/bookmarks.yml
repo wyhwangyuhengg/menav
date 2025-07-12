@@ -1,5 +1,5 @@
 # 自动生成的书签配置文件
-# 由bookmark-processor.js生成于 2025-07-08T13:25:40.736Z
+# 由bookmark-processor.js生成于 2025-07-12T02:05:50.844Z
 # 若要更新，请将新的书签HTML文件放入bookmarks/目录
 # 此文件使用模块化配置格式，位于config/user/pages/目录下
 
@@ -872,7 +872,7 @@ categories:
         icon: fas fa-link
         description: ""
       - name: qBittorrent v5.1.0 WebUI
-        url: http://222.186.57.23:27884/
+        url: http://220.205.16.42:65021/
         icon: fas fa-link
         description: ""
       - name: qBittorrent Enhanced Edition v4.6.3.10 Web UI
@@ -893,10 +893,6 @@ categories:
         description: ""
       - name: 我的导航
         url: https://menav.wyhddns.top/
-        icon: fas fa-link
-        description: ""
-      - name: qBittorrent v4.3.9 Web UI
-        url: http://45.129.183.44:18230/
         icon: fas fa-link
         description: ""
       - name: Google
@@ -1112,5 +1108,13 @@ categories:
         description: ""
       - name: 云飞pt盒子刷流|pt上传|pt盒子|馒头上传
         url: https://yunfeipt.flowus.cn/
+        icon: fas fa-link
+        description: ""
+      - name: qBittorrent v4.3.9 Web UI
+        url: http://45.129.183.44:18230/
+        icon: fas fa-link
+        description: ""
+      - name: "织梦 :: 首页 - Powered by NexusPHP"
+        url: https://zmpt.cc/index.php
         icon: fas fa-link
         description: ""
