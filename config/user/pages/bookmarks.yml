@@ -1,5 +1,5 @@
 # 自动生成的书签配置文件
-# 由bookmark-processor.js生成于 2025-07-12T02:05:50.844Z
+# 由bookmark-processor.js生成于 2025-07-16T05:05:54.078Z
 # 若要更新，请将新的书签HTML文件放入bookmarks/目录
 # 此文件使用模块化配置格式，位于config/user/pages/目录下
 
@@ -871,6 +871,10 @@ categories:
         url: https://zhuanlan.zhihu.com/p/1908218443079090654
         icon: fas fa-link
         description: ""
+      - name: "织梦 :: 首页 - Powered by NexusPHP"
+        url: https://zmpt.cc/index.php
+        icon: fas fa-link
+        description: ""
       - name: qBittorrent v5.1.0 WebUI
         url: http://220.205.16.42:65021/
         icon: fas fa-link
@@ -893,6 +897,10 @@ categories:
         description: ""
       - name: 我的导航
         url: https://menav.wyhddns.top/
+        icon: fas fa-link
+        description: ""
+      - name: 使用Lucky的STUN内网穿透功能获取ipv4公网绑域名进行外网访问 - 攻略分享 飞牛私有云论坛 fnOS
+        url: https://club.fnnas.com/forum.php?mod=viewthread&amp;tid=6545
         icon: fas fa-link
         description: ""
       - name: Google
@@ -1112,9 +1120,5 @@ categories:
         description: ""
       - name: qBittorrent v4.3.9 Web UI
         url: http://45.129.183.44:18230/
-        icon: fas fa-link
-        description: ""
-      - name: "织梦 :: 首页 - Powered by NexusPHP"
-        url: https://zmpt.cc/index.php
         icon: fas fa-link
         description: ""
