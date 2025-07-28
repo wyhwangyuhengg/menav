@@ -1,5 +1,5 @@
 # 自动生成的书签配置文件
-# 由bookmark-processor.js生成于 2025-07-16T05:05:54.078Z
+# 由bookmark-processor.js生成于 2025-07-28T12:06:42.380Z
 # 若要更新，请将新的书签HTML文件放入bookmarks/目录
 # 此文件使用模块化配置格式，位于config/user/pages/目录下
 
@@ -1085,10 +1085,6 @@ categories:
       - name: kube-state-metrics/docs at main · kubernetes/kube-state-metrics · GitHub
         url: https://github.com/kubernetes/kube-state-metrics/tree/main/docs
         icon: fab fa-github
-        description: ""
-      - name: AIchatOS
-        url: https://chat18.aichatos.xyz/
-        icon: fas fa-link
         description: ""
       - name: List directory - /k8s/prometheus-oper/
         url: http://stu.jxit.net.cn:88/k8s/prometheus-oper/
