@@ -1,5 +1,5 @@
 # 自动生成的书签配置文件
-# 由bookmark-processor.js生成于 2025-08-01T10:29:13.305Z
+# 由bookmark-processor.js生成于 2025-08-01T10:29:40.782Z
 # 若要更新，请将新的书签HTML文件放入bookmarks/目录
 # 此文件使用模块化配置格式，位于config/user/pages/目录下
 
@@ -907,10 +907,6 @@ categories:
         url: https://audiences.me/torrents.php?cat401=1&amp;team19=1&amp;team21=1&amp;team20=1&amp;team23=1&amp;team24=1&amp;tag1=1&amp;incldead=2&amp;spstate=&amp;inclbookmarked=&amp;search=&amp;search_area=2&amp;search_mode=&amp;notnewword=&amp;sort=4&amp;type=desc
         icon: fas fa-link
         description: ""
-      - name: "首页 :: Vertex"
-        url: http://185.233.106.212:3000/index
-        icon: fas fa-link
-        description: ""
       - name: Google
         url: https://www.google.com/?gws_rd=ssl#spf=1624331384824
         icon: fab fa-google
@@ -1116,5 +1112,13 @@ categories:
         description: ""
       - name: 云飞pt盒子刷流|pt上传|pt盒子|馒头上传
         url: https://yunfeipt.flowus.cn/
+        icon: fas fa-link
+        description: ""
+      - name: "首页 :: Vertex"
+        url: http://185.233.106.212:3000/index
+        icon: fas fa-link
+        description: ""
+      - name: qBittorrent v4.3.9 Web UI
+        url: http://185.233.106.212:18230/
         icon: fas fa-link
         description: ""
