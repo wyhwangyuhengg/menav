@@ -1,5 +1,5 @@
 # 自动生成的书签配置文件
-# 由bookmark-processor.js生成于 2025-08-04T01:36:55.058Z
+# 由bookmark-processor.js生成于 2025-08-05T15:08:38.076Z
 # 若要更新，请将新的书签HTML文件放入bookmarks/目录
 # 此文件使用模块化配置格式，位于config/user/pages/目录下
 
@@ -914,6 +914,10 @@ categories:
       - name: Dedicated-Seedbox/README-zh.md at main · jerry048/Dedicated-Seedbox
         url: https://github.com/jerry048/Dedicated-Seedbox/blob/main/README-zh.md
         icon: fab fa-github
+        description: ""
+      - name: PT盒子教程、工具、脚本《论如何跑满》 | XiaoCai&#039;s Blog
+        url: https://blog.ixiaocai.net/posts/Seedbox-Configuration-Tools-And-Scripts/
+        icon: fas fa-link
         description: ""
       - name: Google
         url: https://www.google.com/?gws_rd=ssl#spf=1624331384824
