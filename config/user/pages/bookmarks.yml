@@ -1,5 +1,5 @@
 # 自动生成的书签配置文件
-# 由bookmark-processor.js生成于 2025-08-05T15:08:38.076Z
+# 由bookmark-processor.js生成于 2025-08-08T22:42:27.849Z
 # 若要更新，请将新的书签HTML文件放入bookmarks/目录
 # 此文件使用模块化配置格式，位于config/user/pages/目录下
 
@@ -873,6 +873,10 @@ categories:
         description: ""
       - name: "织梦 :: 首页 - Powered by NexusPHP"
         url: https://zmpt.cc/index.php
+        icon: fas fa-link
+        description: ""
+      - name: "TCCF :: 首页"
+        url: https://et8.org/index.php
         icon: fas fa-link
         description: ""
       - name: TorrentLeech.org
