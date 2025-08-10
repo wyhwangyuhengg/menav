@@ -1,5 +1,5 @@
 # 自动生成的书签配置文件
-# 由bookmark-processor.js生成于 2025-08-08T22:42:27.849Z
+# 由bookmark-processor.js生成于 2025-08-10T03:44:53.757Z
 # 若要更新，请将新的书签HTML文件放入bookmarks/目录
 # 此文件使用模块化配置格式，位于config/user/pages/目录下
 
@@ -883,6 +883,10 @@ categories:
         url: https://www.torrentleech.org/profile/1194931390/view
         icon: fas fa-link
         description: ""
+      - name: qBittorrent v4.3.9 Web UI
+        url: http://192.168.1.115:8091/
+        icon: fas fa-link
+        description: ""
       - name: qBittorrent v5.1.0 WebUI
         url: http://220.205.16.42:65021/
         icon: fas fa-link
@@ -909,10 +913,6 @@ categories:
         description: ""
       - name: 使用Lucky的STUN内网穿透功能获取ipv4公网绑域名进行外网访问 - 攻略分享 飞牛私有云论坛 fnOS
         url: https://club.fnnas.com/forum.php?mod=viewthread&amp;tid=6545
-        icon: fas fa-link
-        description: ""
-      - name: 人人孤种列表
-        url: https://audiences.me/torrents.php?cat401=1&amp;team19=1&amp;team21=1&amp;team20=1&amp;team23=1&amp;team24=1&amp;tag1=1&amp;incldead=2&amp;spstate=&amp;inclbookmarked=&amp;search=&amp;search_area=2&amp;search_mode=&amp;notnewword=&amp;sort=4&amp;type=desc
         icon: fas fa-link
         description: ""
       - name: Dedicated-Seedbox/README-zh.md at main · jerry048/Dedicated-Seedbox
