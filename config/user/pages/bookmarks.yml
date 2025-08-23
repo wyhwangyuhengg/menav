@@ -1,5 +1,5 @@
 # 自动生成的书签配置文件
-# 由bookmark-processor.js生成于 2025-08-22T05:38:17.048Z
+# 由bookmark-processor.js生成于 2025-08-23T07:32:00.087Z
 # 若要更新，请将新的书签HTML文件放入bookmarks/目录
 # 此文件使用模块化配置格式，位于config/user/pages/目录下
 
@@ -895,18 +895,6 @@ categories:
         url: https://iptorrents.com/indexipt.php
         icon: fas fa-link
         description: ""
-      - name: qBittorrent v4.3.9 Web UI
-        url: http://192.168.1.115:8092/
-        icon: fas fa-link
-        description: ""
-      - name: qBittorrent v5.1.0 WebUI
-        url: http://220.205.16.42:65021/
-        icon: fas fa-link
-        description: ""
-      - name: qBittorrent Enhanced Edition v4.6.3.10 Web UI
-        url: http://hz.wyhddns.top:9080/
-        icon: fas fa-link
-        description: ""
       - name: 1194931390 (1194931390) - IMG.TG
         url: https://img.tg/1194931390
         icon: fas fa-link
@@ -933,6 +921,14 @@ categories:
         description: ""
       - name: qBittorrent v4.3.9 qb刷流nas
         url: http://192.168.1.115:8091/
+        icon: fas fa-link
+        description: ""
+      - name: qBittorrent v4.3.9 Web UI
+        url: http://192.168.1.115:8092/
+        icon: fas fa-link
+        description: ""
+      - name: 哪吒
+        url: http://110.42.50.70:30163/
         icon: fas fa-link
         description: ""
       - name: Google
