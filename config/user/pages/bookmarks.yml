@@ -1,5 +1,5 @@
 # 自动生成的书签配置文件
-# 由bookmark-processor.js生成于 2025-08-23T07:32:00.087Z
+# 由bookmark-processor.js生成于 2025-08-24T11:45:48.226Z
 # 若要更新，请将新的书签HTML文件放入bookmarks/目录
 # 此文件使用模块化配置格式，位于config/user/pages/目录下
 
@@ -929,6 +929,10 @@ categories:
         description: ""
       - name: 哪吒
         url: http://110.42.50.70:30163/
+        icon: fas fa-link
+        description: ""
+      - name: qBittorrent v4.3.9 Web UI
+        url: http://da.mmszxc.xin:12730/
         icon: fas fa-link
         description: ""
       - name: Google
