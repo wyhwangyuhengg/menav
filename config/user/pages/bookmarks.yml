@@ -1,5 +1,5 @@
 # 自动生成的书签配置文件
-# 由bookmark-processor.js生成于 2025-08-25T12:23:20.465Z
+# 由bookmark-processor.js生成于 2025-08-29T11:11:40.274Z
 # 若要更新，请将新的书签HTML文件放入bookmarks/目录
 # 此文件使用模块化配置格式，位于config/user/pages/目录下
 
@@ -895,6 +895,10 @@ categories:
         url: https://iptorrents.com/indexipt.php
         icon: fas fa-link
         description: ""
+      - name: "PT@KEEPFRDS :: 种子 - Powered by NexusPHP"
+        url: https://pt.keepfrds.com/torrents.php
+        icon: fas fa-link
+        description: ""
       - name: 1194931390 (1194931390) - IMG.TG
         url: https://img.tg/1194931390
         icon: fas fa-link
@@ -939,7 +943,7 @@ categories:
         url: http://152.53.20.54:3000/index
         icon: fas fa-link
         description: ""
-      - name: qBittorrent v4.3.9 Web UI
+      - name: qBittorrent v4.3.9 盒子
         url: http://152.53.20.54:8080/
         icon: fas fa-link
         description: ""
