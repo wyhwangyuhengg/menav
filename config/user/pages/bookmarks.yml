@@ -1,5 +1,5 @@
 # 自动生成的书签配置文件
-# 由bookmark-processor.js生成于 2025-08-29T11:11:40.274Z
+# 由bookmark-processor.js生成于 2025-08-29T15:43:56.544Z
 # 若要更新，请将新的书签HTML文件放入bookmarks/目录
 # 此文件使用模块化配置格式，位于config/user/pages/目录下
 
@@ -945,6 +945,10 @@ categories:
         description: ""
       - name: qBittorrent v4.3.9 盒子
         url: http://152.53.20.54:8080/
+        icon: fas fa-link
+        description: ""
+      - name: 劲折腾的磕巴白菜
+        url: https://hi.keba.host/
         icon: fas fa-link
         description: ""
       - name: Google
