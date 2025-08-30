@@ -1,5 +1,5 @@
 # 自动生成的书签配置文件
-# 由bookmark-processor.js生成于 2025-08-29T15:43:56.544Z
+# 由bookmark-processor.js生成于 2025-08-30T13:22:06.991Z
 # 若要更新，请将新的书签HTML文件放入bookmarks/目录
 # 此文件使用模块化配置格式，位于config/user/pages/目录下
 
@@ -637,10 +637,6 @@ categories:
         url: https://fnos.net/wyh-fn
         icon: fas fa-link
         description: ""
-      - name: "[原创]最快的访问！使用Cloudflare+CDN节点优选+workers重定向lucky的ipv4-stun穿透http请求 – FishTca&#039;s Blog"
-        url: https://www.ytca.top/guidance/1708/
-        icon: fas fa-link
-        description: ""
       - name: CloudSaver
         url: https://hhvlkzdysksv.ap-southeast-1.clawcloudrun.com/resource
         icon: fas fa-link
@@ -949,6 +945,10 @@ categories:
         description: ""
       - name: 劲折腾的磕巴白菜
         url: https://hi.keba.host/
+        icon: fas fa-link
+        description: ""
+      - name: "PANDA :: 申诉区 熊猫高清"
+        url: https://pandapt.net/complains.php?action=view&amp;id=166fd91b-85a4-11f0-ac1d-ba6bb4b14d3d
         icon: fas fa-link
         description: ""
       - name: Google
