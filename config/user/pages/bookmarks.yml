@@ -1,5 +1,5 @@
 # 自动生成的书签配置文件
-# 由bookmark-processor.js生成于 2025-09-01T13:29:13.950Z
+# 由bookmark-processor.js生成于 2025-09-05T03:13:59.335Z
 # 若要更新，请将新的书签HTML文件放入bookmarks/目录
 # 此文件使用模块化配置格式，位于config/user/pages/目录下
 
@@ -893,6 +893,10 @@ categories:
         description: ""
       - name: "PT@KEEPFRDS :: 种子 - Powered by NexusPHP"
         url: https://pt.keepfrds.com/torrents.php
+        icon: fas fa-link
+        description: ""
+      - name: "NovaHD :: 首页 - Powered by NexusPHP"
+        url: https://pt.novahd.top/index.php
         icon: fas fa-link
         description: ""
       - name: 1194931390 (1194931390) - IMG.TG
