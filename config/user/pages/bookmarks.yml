@@ -1,5 +1,5 @@
 # 自动生成的书签配置文件
-# 由bookmark-processor.js生成于 2025-09-06T15:46:48.800Z
+# 由bookmark-processor.js生成于 2025-09-12T07:00:16.258Z
 # 若要更新，请将新的书签HTML文件放入bookmarks/目录
 # 此文件使用模块化配置格式，位于config/user/pages/目录下
 
@@ -931,10 +931,6 @@ categories:
         url: http://192.168.1.115:8092/
         icon: fas fa-link
         description: ""
-      - name: 哪吒
-        url: http://110.42.50.70:30163/
-        icon: fas fa-link
-        description: ""
       - name: qBittorrent v4.3.9 太平
         url: http://da.mmszxc.xin:12730/
         icon: fas fa-link
@@ -957,6 +953,10 @@ categories:
         description: ""
       - name: 哪吒监控 Nezha Monitoring
         url: https://lyitcpmdpkpf.ap-southeast-1.clawcloudrun.com/
+        icon: fas fa-link
+        description: ""
+      - name: Lucky | 总览
+        url: http://[2409:8a62:1215:8c10:b90b:3384:6bb6:3005]:16601/lu/#/status
         icon: fas fa-link
         description: ""
       - name: Google
