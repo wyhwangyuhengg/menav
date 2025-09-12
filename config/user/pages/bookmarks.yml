@@ -1,5 +1,5 @@
 # 自动生成的书签配置文件
-# 由bookmark-processor.js生成于 2025-09-12T07:00:16.258Z
+# 由bookmark-processor.js生成于 2025-09-12T15:09:32.604Z
 # 若要更新，请将新的书签HTML文件放入bookmarks/目录
 # 此文件使用模块化配置格式，位于config/user/pages/目录下
 
@@ -957,6 +957,10 @@ categories:
         description: ""
       - name: Lucky | 总览
         url: http://[2409:8a62:1215:8c10:b90b:3384:6bb6:3005]:16601/lu/#/status
+        icon: fas fa-link
+        description: ""
+      - name: Lucky | 关于
+        url: http://taipin.wyhddns.top:16601/lu/#/about
         icon: fas fa-link
         description: ""
       - name: Google
