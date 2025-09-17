@@ -1,5 +1,5 @@
 # 自动生成的书签配置文件
-# 由bookmark-processor.js生成于 2025-09-15T02:01:15.818Z
+# 由bookmark-processor.js生成于 2025-09-17T12:38:57.785Z
 # 若要更新，请将新的书签HTML文件放入bookmarks/目录
 # 此文件使用模块化配置格式，位于config/user/pages/目录下
 
@@ -961,6 +961,10 @@ categories:
         description: ""
       - name: 阡陌居 - Powered by Discuz!
         url: http://202.61.86.133/
+        icon: fas fa-link
+        description: ""
+      - name: 简幻欢 - Simpfun • V4
+        url: https://www.simpfun.cn/
         icon: fas fa-link
         description: ""
       - name: Google
