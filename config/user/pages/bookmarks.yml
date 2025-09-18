@@ -1,5 +1,5 @@
 # 自动生成的书签配置文件
-# 由bookmark-processor.js生成于 2025-09-17T12:38:57.785Z
+# 由bookmark-processor.js生成于 2025-09-18T14:28:42.346Z
 # 若要更新，请将新的书签HTML文件放入bookmarks/目录
 # 此文件使用模块化配置格式，位于config/user/pages/目录下
 
@@ -704,6 +704,14 @@ categories:
         url: https://qdwmsreisdci.ap-southeast-1.clawcloudrun.com/
         icon: fas fa-link
         description: ""
+      - name: 简幻欢 - Simpfun • V4
+        url: https://www.simpfun.cn/
+        icon: fas fa-link
+        description: ""
+      - name: 免费域名 - Webdom
+        url: https://www.webdom.cn/
+        icon: fas fa-link
+        description: ""
   - name: pt站
     icon: fas fa-folder
     sites:
@@ -961,10 +969,6 @@ categories:
         description: ""
       - name: 阡陌居 - Powered by Discuz!
         url: http://202.61.86.133/
-        icon: fas fa-link
-        description: ""
-      - name: 简幻欢 - Simpfun • V4
-        url: https://www.simpfun.cn/
         icon: fas fa-link
         description: ""
       - name: Google
