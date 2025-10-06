@@ -1,5 +1,5 @@
 # 自动生成的书签配置文件
-# 由bookmark-processor.js生成于 2025-10-01T00:29:29.248Z
+# 由bookmark-processor.js生成于 2025-10-06T09:34:34.324Z
 # 若要更新，请将新的书签HTML文件放入bookmarks/目录
 # 此文件使用模块化配置格式，位于config/user/pages/目录下
 
@@ -909,6 +909,10 @@ categories:
         description: ""
       - name: "OpenCD :: 首頁"
         url: https://open.cd/index.php
+        icon: fas fa-link
+        description: ""
+      - name: 欢迎 • freemediaheckyeah
+        url: https://fmhy.net/
         icon: fas fa-link
         description: ""
       - name: 1194931390 (1194931390) - IMG.TG
