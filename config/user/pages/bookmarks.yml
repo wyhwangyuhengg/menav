@@ -1,5 +1,5 @@
 # 自动生成的书签配置文件
-# 由bookmark-processor.js生成于 2025-10-06T09:34:34.324Z
+# 由bookmark-processor.js生成于 2025-10-06T09:55:13.792Z
 # 若要更新，请将新的书签HTML文件放入bookmarks/目录
 # 此文件使用模块化配置格式，位于config/user/pages/目录下
 
@@ -911,10 +911,6 @@ categories:
         url: https://open.cd/index.php
         icon: fas fa-link
         description: ""
-      - name: 欢迎 • freemediaheckyeah
-        url: https://fmhy.net/
-        icon: fas fa-link
-        description: ""
       - name: 1194931390 (1194931390) - IMG.TG
         url: https://img.tg/1194931390
         icon: fas fa-link
@@ -965,6 +961,14 @@ categories:
         description: ""
       - name: 阡陌居 - Powered by Discuz!
         url: http://202.61.86.133/
+        icon: fas fa-link
+        description: ""
+      - name: 欢迎 • freemediaheckyeah
+        url: https://fmhy.net/
+        icon: fas fa-link
+        description: ""
+      - name: Z-Library – 世界上最大的电子图书馆。自由访问知识和文化。
+        url: https://zh.101intp.ru/?ts=1254
         icon: fas fa-link
         description: ""
       - name: Google
