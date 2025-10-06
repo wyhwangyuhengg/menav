@@ -1,5 +1,5 @@
 # 自动生成的书签配置文件
-# 由bookmark-processor.js生成于 2025-10-06T09:55:13.792Z
+# 由bookmark-processor.js生成于 2025-10-06T14:24:09.647Z
 # 若要更新，请将新的书签HTML文件放入bookmarks/目录
 # 此文件使用模块化配置格式，位于config/user/pages/目录下
 
@@ -969,6 +969,10 @@ categories:
         description: ""
       - name: Z-Library – 世界上最大的电子图书馆。自由访问知识和文化。
         url: https://zh.101intp.ru/?ts=1254
+        icon: fas fa-link
+        description: ""
+      - name: 《逸剑风云决》全收集初始存档/攻略 - 哔哩哔哩
+        url: https://www.bilibili.com/opus/1101676746586980376
         icon: fas fa-link
         description: ""
       - name: Google
