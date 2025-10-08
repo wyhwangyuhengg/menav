@@ -1,5 +1,5 @@
 # 自动生成的书签配置文件
-# 由bookmark-processor.js生成于 2025-10-06T14:24:09.647Z
+# 由bookmark-processor.js生成于 2025-10-08T09:20:07.438Z
 # 若要更新，请将新的书签HTML文件放入bookmarks/目录
 # 此文件使用模块化配置格式，位于config/user/pages/目录下
 
@@ -973,6 +973,10 @@ categories:
         description: ""
       - name: 《逸剑风云决》全收集初始存档/攻略 - 哔哩哔哩
         url: https://www.bilibili.com/opus/1101676746586980376
+        icon: fas fa-link
+        description: ""
+      - name: ColoCrossing美国无限流量VPS，年付$11，1Gbps带宽，可选洛杉矶/纽约/达拉斯 | VPS收割者
+        url: https://www.idcoffer.com/archives/16791
         icon: fas fa-link
         description: ""
       - name: Google
