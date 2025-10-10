@@ -1,5 +1,5 @@
 # 自动生成的书签配置文件
-# 由bookmark-processor.js生成于 2025-10-08T09:20:07.438Z
+# 由bookmark-processor.js生成于 2025-10-10T09:51:55.878Z
 # 若要更新，请将新的书签HTML文件放入bookmarks/目录
 # 此文件使用模块化配置格式，位于config/user/pages/目录下
 
@@ -977,6 +977,10 @@ categories:
         description: ""
       - name: ColoCrossing美国无限流量VPS，年付$11，1Gbps带宽，可选洛杉矶/纽约/达拉斯 | VPS收割者
         url: https://www.idcoffer.com/archives/16791
+        icon: fas fa-link
+        description: ""
+      - name: qBittorrent v4.3.9 Web UI
+        url: http://192.3.233.230:8080/
         icon: fas fa-link
         description: ""
       - name: Google
