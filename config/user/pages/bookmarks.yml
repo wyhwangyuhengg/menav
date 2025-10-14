@@ -1,5 +1,5 @@
 # 自动生成的书签配置文件
-# 由bookmark-processor.js生成于 2025-10-10T09:51:55.878Z
+# 由bookmark-processor.js生成于 2025-10-14T02:26:31.196Z
 # 若要更新，请将新的书签HTML文件放入bookmarks/目录
 # 此文件使用模块化配置格式，位于config/user/pages/目录下
 
@@ -911,6 +911,10 @@ categories:
         url: https://open.cd/index.php
         icon: fas fa-link
         description: ""
+      - name: "Moment :: 签到 - Powered by NexusPHP"
+        url: https://www.momentpt.top/attendance.php
+        icon: fas fa-link
+        description: ""
       - name: 1194931390 (1194931390) - IMG.TG
         url: https://img.tg/1194931390
         icon: fas fa-link
@@ -947,6 +951,10 @@ categories:
         url: http://da.mmszxc.xin:12730/
         icon: fas fa-link
         description: ""
+      - name: 纽约小鸡qb
+        url: http://192.3.233.230:8080/
+        icon: fas fa-link
+        description: ""
       - name: 劲折腾的磕巴白菜
         url: https://hi.keba.host/
         icon: fas fa-link
@@ -977,10 +985,6 @@ categories:
         description: ""
       - name: ColoCrossing美国无限流量VPS，年付$11，1Gbps带宽，可选洛杉矶/纽约/达拉斯 | VPS收割者
         url: https://www.idcoffer.com/archives/16791
-        icon: fas fa-link
-        description: ""
-      - name: qBittorrent v4.3.9 Web UI
-        url: http://192.3.233.230:8080/
         icon: fas fa-link
         description: ""
       - name: Google
