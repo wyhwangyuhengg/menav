@@ -4,6 +4,14 @@ npm-debug.log*
 
 # 构建输出
 dist/
+.astro/
+public/assets/
+public/pinyin-match.js
+public/script.js
+public/menav-config.json
+public/search-index.json
+public/menav.svg
+public/favicon.ico
 
 # IDE/编辑器配置
 .vscode/
@@ -11,6 +19,8 @@ dist/
 .specstory
 .cursorindexingignore
 .cursor
+.spec-workflow/
+.serena/
 
 # 系统文件
 .DS_Store
@@ -18,9 +28,17 @@ Thumbs.db
 
 
 # 个人笔记
-docs/*
+docs/
+docs/local/
+docs/*.local.md
+
+# 本地任务记录
+/task_plan.md
+/findings.md
+/progress.md
 
 # 测试相关文件
+dev/
 jest.config.js
 tests/
 coverage/
@@ -32,5 +50,9 @@ tests/screenshots/
 tests/fixtures/
 *.test.js
 *.spec.js
+
 # SpecStory explanation file
 .specstory/.what-is-this.md
+AGENTS.md
+/.claude
+/discord-style-navstation
